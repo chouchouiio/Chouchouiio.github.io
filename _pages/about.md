@@ -19,7 +19,7 @@ Education Background:
 - Mathematical Geometry
 - Diffusion Models
   
-Brief History of Past Honors
+Brief Honors
 ======
 **National/Provincial Level (11 awards):** Won 11 high-level academic competition awards at national and provincial levels.
 
