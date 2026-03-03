@@ -53,7 +53,7 @@ Led/Participated in 2 provincial-level College Students' Innovation and Entrepre
 
 Obtained 3 Software Copyrights and 3 Invention/Utility Model Patents
 
-Published 3 SCI/EI papers as the first author (with a cumulative impact factor of 10+)
+Published 3 SCI/EI papers and 2 as the first author (with a cumulative impact factor of 10+)
 
 **Honorary Titles** (over 10 titles)
 
