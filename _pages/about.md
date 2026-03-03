@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "(周德靖) Dejing Zhou's Bio"
+title: "About me Dejing Zhou  (周德靖)"
 author_profile: true
 redirect_from: 
   - /about/
