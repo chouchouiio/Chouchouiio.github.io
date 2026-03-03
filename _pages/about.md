@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Education Background:
+**Education Background:**
 - Master of Science in Artificial Intelligence, University of Macau, 2025-2027 (2-year program)
-- Bachelor of Science in Artificial Intelligence, South China Agricultural University, 2021-2025  (4-year program)
+- Bachelor of Engineering in Artificial Intelligence, South China Agricultural University, 2021-2025 (4-year program)
 
 
 **Research Interests & Directions:**
